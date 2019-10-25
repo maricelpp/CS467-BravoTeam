@@ -47,7 +47,7 @@ const Navbar = props => {
 	return (
 		<NavbarContainer>
 			<Link to="/"><p>
-				<strong>2TOWNS</strong>Ciderhouse
+				<strong>Oregon</strong>Ciderhouse
 			</p></Link>
 			<ul>
 				<li><NavLink to="/login">Login</NavLink></li>
